@@ -1,0 +1,120 @@
+{
+  "CommunicationPage": {
+    "MultiProgramCardItem": {
+      "Connector": "of",
+      "Shares": "shares"
+    },
+    "CurrencySwitcherDropdown": {
+      "Title": "Select a currency ($)"
+    },
+    "TotalCompSection": {
+      "TotalCompTitle": "Your total compensation",
+      "BlockTitles": {
+        "MONTHLY_COMPENSATION": "Salary",
+        "MONTHLY_BENEFITS": "Benefits",
+        "STOCK_OPTIONS": "Long Term Incentives",
+        "ILP": "Long Term Incentives",
+        "ANNUALLY_BONUS": "Bonus",
+        "EMPLOYEE_ANNUALLY_BONUS": "Bonus",
+        "ANNUALLY_COMMISSION": "Commission",
+        "BONUS": "Bonus",
+        "EMPLOYEE_BONUS": "Bonus",
+        "COMMISSION": "Commission",
+        "COMMISSION_PERIODICITY": "Commission frequency"
+      },
+      "BlockInfo": {
+        "MONTHLY_BENEFITS": "The Benefits value represents the estimated value of the benefits package you will receive monthly.",
+        "STOCK_OPTIONS": "The value of Stock Options represents the value of company shares that you can buy at a fixed price in the future, that is, with large potential for appreciation. We will explain more details as we scroll down the page.",
+        "ILP": "The Long Term Incentives value represents the estimated value of shares in the company that you own or have the right to own, that is, with large potential for appreciation. We will explain more details as we scroll down the page.",
+        "ANNUALLY_BONUS": "Annual amount that you will receive, depending on your performance. When you join the company, we'll go into more detail about your goals.",
+        "EMPLOYEE_ANNUALLY_BONUS": "Annual amount that you will receive, depending on your performance against your goals.",
+        "ANNUALLY_COMMISSION": "Expected annual commission amount assuming achievement of goals",
+        "BONUS": "The amount you will receive depends on your performance. When you join the company, we'll go into more detail about your goals.",
+        "EMPLOYEE_BONUS": "Annual amount that you will receive, depending on your performance against your goals.",
+        "COMMISSION": "Expected commission value assuming achievement of goals",
+        "COMMISSION_PERIODICITY": "Frequency at which you will receive your compensation related to your commission"
+      },
+      "EvolutionTitle": "See the evolution of your compensation over time"
+    },
+    "VariablePay": {
+      "TotalCompensation": "Your variable compensation"
+    },
+    "BenefitsSection": {
+      "Title": "About your benefits",
+      "Description": "One of the most attractive features of our remuneration package is our wide range of benefits. With this package, you will have access to a comprehensive set of benefits such as Health Insurance, VR/VA, among others.",
+      "ListTitle": "See the list of all your benefits",
+      "ShowMoreButton": {
+        "General": "Show",
+        "Less": "less",
+        "More": "more"
+      }
+    },
+    "SharedIlp": {
+      "Description": "A big advantage of our package is that you can become a shareholder in our company. As the company grows, the value of these shares increases, which can generate significant profits (as indicated in the calculator below). This recognition is offered to selected employees only and ensures that everyone is interested in the company's long-term success.",
+      "ValorizationScenarios": {
+        "Title": "Drag to explore the potential return by company valuation multiplier",
+        "SubTitle": "Below we have created a calculator that shows the estimated value that the share plan we are offering you could have based on the company's valuation.",
+        "Projection": "Projection of the value of your plan",
+        "ProjectionInfo": "Projected value assuming the company's appreciation without considering dilutions in share sales"
+      }
+    },
+    "ValorizationScenarioSlider": {
+      "Title": "Drag to explore the potential return by company valuation multiplier",
+      "Description": "In this scenario, the company valued {{multiple}} the present value and its action plan is highly valued.",
+      "Projection": "Projection of the value of your plan",
+      "ProjectionInfo": "Projected value assuming the company's appreciation without considering dilutions in share sales"
+    },
+    "MultiIlpSection": {
+      "Title": "About your long-term incentives",
+      "Description": "A big advantage of our package is that you can become a shareholder in our company. As the company grows, the value of these shares increases, which can generate significant profits (as indicated in the calculator below). This recognition is offered to selected employees only and ensures that everyone is interested in the company's long-term success.",
+      "TotalValue": "Total long-term incentive package",
+      "TotalValueTooltip": "Expected value of the sum of your long-term incentive packages that you will wear over the next 12 months"
+    },
+    "IlpSection": {
+      "SOP": {
+        "ShareAmountInfo": "This number represents the number of shares you can obtain during the validity period of this package.",
+        "GraphDescription": "The chart below illustrates the dates on which a portion of the stock options become available to you, known as ‘vesting’. Each increase in the graph represents a moment in which a portion of the options becomes yours. This gradual vesting process is a way of ensuring that, over time, you fully acquire the stock options offered in the plan, thus becoming a shareholder of the company.",
+        "GraphTitle": "Understanding the Stock Options Acquisition Schedule"
+      },
+      "Default": {
+        "ShareAmountInfo": "This number represents the number of shares you can obtain during the validity period of this package.",
+        "GraphDescription": "The chart below illustrates the dates on which the shares become yours, which is known as ‘vesting’. Each increase in the graph represents a moment in which a portion of the shares become yours. This gradual vesting process is a way of ensuring that, over time, you fully acquire the shares offered in the plan, thus becoming a shareholder of the company.",
+        "GraphTitle": "Understanding the RSU's Acquisition Schedule"
+      },
+      "Title": "About your long-term incentive",
+      "TotalValueTooltip": "Expected value of your long-term incentive package that you will wear over the next 12 months",
+      "ShareAmount": "Number of Shares",
+      "StrikePrice": {
+        "Title": "Strike price",
+        "Tooltip": "This value is the purchase price of the share at the time it becomes available for purchase"
+      },
+      "SharePrice": {
+        "Title": "Share price",
+        "Tooltip": "This value is the estimated share price of the company"
+      },
+      "Cliff": {
+        "Title": "Initial vesting",
+        "Tooltip": "Minimum period of time that you have to be working at the company to receive the first vesting of this share plan.",
+        "Months": "months"
+      },
+      "VestingType": {
+        "Title": "Vestings adicionais",
+        "Tooltip": "Minimum period of time that you have to be working at the company to receive the first vesting of this share plan.",
+        "DAILY": "Daily",
+        "MONTHLY": "Monthly",
+        "QUARTERLY": "Quarterly",
+        "BIANNUALLY": "Biannual",
+        "ANNUALLY": "Annual"
+      },
+      "PlanTime": {
+        "Title": "Plan duration",
+        "Tooltip": "Duration period of this plan, i.e. the time necessary for you to have fully vested your entire package.",
+        "Years": "years"
+      },
+      "VestingFinished": "Vesting finished"
+    },
+    "EditableOverlay": {
+      "EditButton": "Edit"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "CommunicationPage": {
+    "MultiProgramCardItem": {
+      "Connector": "de",
+      "Shares": "ações"
+    },
+    "CurrencySwitcherDropdown": {
+      "Title": "Selecione a moeda ($)"
+    },
+    "TotalCompSection": {
+      "TotalCompTitle": "Sua remuneração total",
+      "BlockTitles": {
+        "MONTHLY_COMPENSATION": "Salário",
+        "MONTHLY_BENEFITS": "Benefícios",
+        "STOCK_OPTIONS": "Incentivos de Longo Prazo",
+        "ILP": "Incentivos de Longo Prazo",
+        "ANNUALLY_BONUS": "Bônus",
+        "EMPLOYEE_ANNUALLY_BONUS": "Bônus",
+        "ANNUALLY_COMMISSION": "Comissão",
+        "BONUS": "Bônus",
+        "EMPLOYEE_BONUS": "Bônus",
+        "COMMISSION": "Comissão",
+        "COMMISSION_PERIODICITY": "Periodicidade da comissão"
+      },
+      "BlockInfo": {
+        "MONTHLY_BENEFITS": "O valor de Benefícios representa o valor estimado do pacote de benefícios que você vai receber mensalmente.",
+        "STOCK_OPTIONS": "O valor de Stock Options representa o valor de ações da empresa em que você pode comprar a um preço fixo no futuro, ou seja com potenciais grandes de valorização. Vamos explicar mais detalhes ao descer a página.",
+        "ILP": "O valor de ILP representa o valor estimado de ações da empresa que você possui ou tem o direito de possuir, ou seja com potenciais grandes de valorização. Vamos explicar mais detalhes ao descer a página.",
+        "ANNUALLY_BONUS": "Valor anual que você vai receber, dependendo da sua performance. Quando você entrar na empresa, vamos detalhar melhor sobre suas metas.",
+        "EMPLOYEE_ANNUALLY_BONUS": "Valor anual que você vai receber, dependendo da sua performance sobre as suas metas.",
+        "ANNUALLY_COMMISSION": "Valor anual de comissão esperado assumindo o atingimento das metas",
+        "BONUS": "Valor que você vai receber, dependendo da sua performance. Quando você entrar na empresa, vamos detalhar melhor sobre suas metas.",
+        "EMPLOYEE_BONUS": "Valor anual que você vai receber, dependendo da sua performance sobre as suas metas.",
+        "COMMISSION": "Valor de comissão esperado assumindo o atingimento das metas",
+        "COMMISSION_PERIODICITY": "Frequência na qual você receberá a sua remuneração relacionada à sua comissão"
+      },
+      "EvolutionTitle": "Veja a evolução da sua remuneração ao longo do tempo"
+    },
+    "VariablePay": {
+      "TotalCompensation": "Sua remuneração variável"
+    },
+    "BenefitsSection": {
+      "Title": "Sobre seus benefícios",
+      "Description": "Uma das características mais atrativas do nosso pacote de remuneração é a nossa ampla gama de benefícios. Com esse pacote, você terá acesso a um conjunto abrangente de benefícios como Seguro Saude, VR/VA, entre outros.",
+      "ListTitle": "Veja a lista de todos os seus benefícios",
+      "ShowMoreButton": {
+        "General": "Mostrar",
+        "Less": "menos",
+        "More": "mais"
+      }
+    },
+    "SharedIlp": {
+      "Description": "Uma grande vantagem do nosso pacote é que você pode se tornar acionista da nossa empresa. À medida que a empresa cresce, o valor dessas ações aumenta, o que pode gerar lucros significativos (como indicado na calculadora abaixo). Este reconhecimento é oferecido a funcionários selecionados apenas e garante que todos estejam interessados no sucesso da empresa a longo prazo.",
+      "ValorizationScenarios": {
+        "Title": "Arraste para explorar o potencial de retorno pelo multiplicador de avaliação da empresa",
+        "SubTitle": "Abaixo criamos uma calculadora que mostra o valor estimado que o plano de ações que estamos oferecendo para você pode passar a ter com base na valorização da empresa.",
+        "Projection": "Projeção do valor do seu plano",
+        "ProjectionInfo": "Valor projetado assumindo a valorização da empresa sem considerar diluições em vendas de ações"
+      }
+    },
+    "ValorizationScenarioSlider": {
+      "Title": "Arraste para explorar o potencial de retorno pelo multiplicador de avaliação da empresa",
+      "Description": "Nesse cenário a empresa valorizou em {{multiple}} o valor presente e seu plano de ação está muito valorizado.",
+      "Projection": "Projeção do valor do seu plano",
+      "ProjectionInfo": "Valor projetado assumindo a valorização da empresa sem considerar diluições em vendas de ações"
+    },
+    "MultiIlpSection": {
+      "Title": "Sobre seus incentivos de longo prazo",
+      "TotalValue": "Pacote total de incentivos de longo prazo",
+      "TotalValueTooltip": "Valor esperado da soma dos seus pacotes de incentivos de longo prazo que vão vestir nos próximos 12 meses"
+    },
+    "IlpSection": {
+      "SOP": {
+        "ShareAmountInfo": "Esse número representa a quantidade de ações que você poderá obter durante o periodo de vigência desse pacote",
+        "GraphDescription": "O gráfico abaixo ilustra as datas em que uma parte das opções de ações se tornam disponíveis para você, o que é conhecido como ‘vesting’. Cada aumento no gráfico representa um momento em que uma parcela das opções se torna sua. Este processo gradual de vesting é uma maneira de garantir que, ao longo do tempo, você adquira totalmente as stock options oferecidas no plano, tornando-se assim um acionista da empresa.",
+        "GraphTitle": "Entendendo o Cronograma de Aquisição das Stock Options"
+      },
+      "Default": {
+        "ShareAmountInfo": "Esse número representa a quantidade de ações que você poderá obter durante o periodo de vigência desse pacote",
+        "GraphDescription": "O gráfico abaixo ilustra as datas em que as ações se tornam suas, o que é conhecido como ‘vesting’. Cada aumento no gráfico representa um momento em que uma parcela das ações se tornam suas. Este processo gradual de vesting é uma maneira de garantir que, ao longo do tempo, você adquira totalmente as ações oferecidas no plano, tornando-se assim um acionista da empresa.",
+        "GraphTitle": "Entendendo o Cronograma de Aquisição das RSU's"
+      },
+      "Title": "Sobre seu incentivo de longo prazo",
+      "TotalValueTooltip": "Valor esperado do seu pacote de incentivo de longo prazo que vai vestir nos próximos 12 meses",
+      "ShareAmount": "Número de ações",
+      "StrikePrice": {
+        "Title": "Preço de exercício",
+        "Tooltip": "Esse valor é o preço de compra da ação no momento em que fica disponível para compra"
+      },
+      "SharePrice": {
+        "Title": "Preço da ação",
+        "Tooltip": "Esse valor é o preço estimado da ação da empresa"
+      },
+      "Cliff": {
+        "Title": "Vesting inicial",
+        "Tooltip": "Período mínimo de tempo que você tem que estar trabalhando na empresa para receber o primeiro vest desse plano de ações.",
+        "Months": "meses"
+      },
+      "VestingType": {
+        "Title": "Vestings adicionais",
+        "Tooltip": "Período para vestings adicionais depois que o vesting inicial já tenha ocorrido",
+        "DAILY": "Diário",
+        "MONTHLY": "Mensal",
+        "QUARTERLY": "Trimestral",
+        "BIANNUALLY": "Semestral",
+        "ANNUALLY": "Anual"
+      },
+      "PlanTime": {
+        "Title": "Duração do plano",
+        "Tooltip": "Período de duração desse plano, ou seja o tempo necessário para que você tenha obtido o vesting completo de todo o seu pacote.",
+        "Years": "anos"
+      },
+      "VestingFinished": "Vesting completo"
+    },
+    "EditableOverlay": {
+      "EditButton": "Editar"
+    }
+  }
+}
