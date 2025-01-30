@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134.216" height="30" viewBox="0 0 134.216 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="134.216" height="30" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="logo-neon-blue" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1-2">
+        <path id="Path_3329" data-name="Path 3329" d="M237.825.01a14.966,14.966,0,1,0,14.963,14.966v0A14.963,14.963,0,0,0,237.825.01Zm0,22.864a7.9,7.9,0,1,1,7.9-7.9h0a7.91,7.91,0,0,1-7.9,7.907Z" transform="translate(-156.003 -0.008)" fill="#ffffff"/>
+        <path id="Path_3330" data-name="Path 3330" d="M351.424.01a16.922,16.922,0,0,0-12,28.891,3.529,3.529,0,1,0,5.133-4.845h0c-.045-.048-.093-.1-.141-.141a9.854,9.854,0,1,1,13.967,0,3.535,3.535,0,0,0,5.01,4.989A16.928,16.928,0,0,0,351.424.01Z" transform="translate(-234.131 -0.007)" fill="#ffffff"/>
+        <path id="Path_3331" data-name="Path 3331" d="M16.931.01A16.928,16.928,0,0,0,4.953,28.9a3.531,3.531,0,1,0,5-4.989h0a9.872,9.872,0,1,1,13.964,0A3.531,3.531,0,0,0,28.91,28.9,16.928,16.928,0,0,0,16.931.01Z" transform="translate(0.002 -0.008)" fill="#ffffff"/>
+        <path id="Path_3332" data-name="Path 3332" d="M150.671,9.154a3.528,3.528,0,0,0-.1-4.988h0a14.963,14.963,0,1,0,0,21.6,3.534,3.534,0,0,0-4.884-5.1,7.9,7.9,0,1,1,0-11.4,3.528,3.528,0,0,0,4.988-.1h0Z" transform="translate(-87.675 -0.002)" fill="#ffffff"/>
+        <circle id="Ellipse_105" data-name="Ellipse 105" cx="3.531" cy="3.531" r="3.531" transform="translate(49.01 11.438)" fill="#ffffff"/>
+        <path id="Path_3333" data-name="Path 3333" d="M237.825.01a14.966,14.966,0,1,0,14.963,14.966v0A14.963,14.963,0,0,0,237.825.01Zm0,22.87a7.907,7.907,0,1,1,7.9-7.91v0A7.907,7.907,0,0,1,237.825,22.88Z" transform="translate(-156.003 -0.008)" fill="#ffffff"/>
+      </g>
+    </g>
+  </g>
+</svg>
